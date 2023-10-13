@@ -1,3 +1,6 @@
+### Description
+Liberu Automation is an advanced and comprehensive automation and billing software solution currently in development using Laravel 10, PHP 8.2, Nuxt 3, Vue 3, Vuetify and TypeScript, poised to revolutionize the way businesses manage their financial operations. This state-of-the-art software is designed to meet the diverse needs of businesses across various industries, providing a seamless and efficient Content Management System experience.
+
 ### Contributions
 
 We warmly welcome new contributions from the community! We believe in the power of collaboration and appreciate any involvement you'd like to have in improving our project. Whether you prefer submitting pull requests with code enhancements or raising issues to help us identify areas of improvement, we value your participation.
