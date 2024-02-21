@@ -1,5 +1,21 @@
 ### Description
-Liberu Automation is an advanced and comprehensive automation and billing software solution currently in development using Laravel 11 and PHP 8.3, Filament 3.2 and Livewire 3, poised to revolutionize the way businesses manage their financial operations. This state-of-the-art software is designed to meet the diverse needs of businesses across various industries, providing a seamless and efficient automation experience.
+Welcome to Liberu Automation, our revolutionary open-source project that redefines the world of web hosting control and billing. With the powerful combination of Laravel 11, PHP 8.3, Livewire 3, and Filament 3, Liberu Automation is not just a control panel – it's a dynamic solution designed to streamline web hosting management and billing processes with efficiency and innovation.
+
+**Key Features:**
+
+1. **Intuitive Control Panel:** Liberu Automation boasts an intuitive and user-friendly control panel, providing seamless management of web hosting resources. From domain administration to server configuration, our project simplifies the complexities of web hosting, ensuring a smooth and accessible experience for users.
+
+2. **Billing Automation:** Automate your billing processes with Liberu Automation. From subscription management to invoice generation, our project facilitates effortless financial transactions, saving time and resources for both administrators and users.
+
+3. **Real-time Monitoring:** Keep a vigilant eye on your web hosting infrastructure with real-time monitoring features. Leveraging Laravel 11 and PHP 8.3, Liberu Automation ensures that administrators can track server performance, resource usage, and other critical metrics to maintain optimal functionality.
+
+4. **Client Management:** Enhance client relationships through Liberu Automation's comprehensive client management system. From user permissions to support ticket systems, our project empowers administrators to provide top-notch service to their clients.
+
+5. **Efficient Administration:** Filament 3, our admin panel built on Laravel, adds an extra layer of efficiency to Liberu Automation. Administrators can effortlessly manage user permissions, customize settings, and oversee the entire hosting infrastructure with a powerful and intuitive interface.
+
+Liberu Automation is open source, released under the permissive MIT license. We invite web hosting providers, developers, and tech enthusiasts to join us in shaping the future of hosting management tools. Together, let's harness the power of technology to simplify web hosting, automate billing processes, and create a seamless experience for administrators and users alike.
+
+Welcome to Liberu Automation – where innovation meets control and efficiency in the dynamic world of web hosting. Join us on this journey to redefine the standards of web hosting control panels and billing systems.
 
 ### Licensed under MIT, use for any personal or commercial project.
 
