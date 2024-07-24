@@ -10,6 +10,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
+
+## [Hosted application packages](https://liberu.co.uk/order/main/packages/applications/?group_id=3)
+
+
 ### Description
 Welcome to Liberu Automation, our revolutionary open-source project that redefines the world of web hosting control and billing. With the powerful combination of Laravel 11, PHP 8.3, Livewire 3, and Filament 3, Liberu Automation is not just a control panel – it's a dynamic solution designed to streamline web hosting management and billing processes with efficiency and innovation.
 
